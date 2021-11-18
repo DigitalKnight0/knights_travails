@@ -1,4 +1,5 @@
 class Knight
+    
   attr_accessor :children, :position
 
   def initialize(position, children = [])

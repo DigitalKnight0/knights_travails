@@ -1,4 +1,4 @@
-require_relative 'knight'
+require_relative 'knight.rb'
 
 class Graph
   attr_accessor :graph, :board
